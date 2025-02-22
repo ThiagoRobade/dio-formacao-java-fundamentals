@@ -1,3 +1,15 @@
+/*
+
+1. Crie um programa que receba a idade de uma
+pessoa e determine se ela é menor de idade,
+maior de idade ou idosa. Considere como
+referência:
+
+- Menor de idade: menos de 18 anos
+- Maior de idade: de 18 a 64 anos
+- Idoso: 65 anos ou mais
+ */
+
 import java.util.Scanner;
 
 public class Main {
